@@ -12,7 +12,7 @@ hascode = false
 
     <div style="width: 100%; max-width: 600px; margin-bottom: 1.5rem;">
         <video autoplay loop muted playsinline style="width: 100%; display: block;">
-            <source src="/assets/lorenz.mp4" type="video/mp4">
+            <source src="assets/lorenz.mp4" type="video/mp4">
         </video>
     </div>
 
