@@ -22,7 +22,6 @@ website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 
 
-@def keep_path = ["google69b070b7f7ec221a.html"]
 +++
 
 <!--
