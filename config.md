@@ -31,3 +31,7 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\scal}[1]{\langle #1 \rangle}
 
 
+
+
+keep_path = ["google69b070b7f7ec221a.html"]
+
