@@ -5,6 +5,19 @@ hascode = false
 +++
 
 ~~~
+<style>
+  body {
+    background-color: #000000; /* Nero per matchare il video */
+    color: #e0e0e0;
+  }
+  h1, h2, h3, .title { color: #ffffff !important; }
+  .subtitle { color: #cccccc !important; }
+  a { color: #64b5f6; }
+  a:hover { color: #9be7ff; }
+</style>
+~~~
+
+~~~
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center; max-width: 800px; margin: 0 auto;">
 
     <h1 class="title" style="margin-bottom: 0.5rem;">Giulio Martella</h1>
@@ -37,7 +50,7 @@ hascode = false
 ### Blog
 *I'll write something*
 ~~~<br>~~~
-{{recentblogposts .}}
+
 
 ### Notes
 *If you just came here for my notes*
